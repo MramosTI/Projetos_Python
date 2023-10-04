@@ -1,2 +1,2 @@
 # Projetos_Python
- Meus projetos e programas da minha jornada de aprendizagem em Python
+ Meus primeiros projetos e programas na minha jornada de aprendizagem da linguagem Python.
